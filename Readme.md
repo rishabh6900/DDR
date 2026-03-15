@@ -19,29 +19,21 @@ The system automatically extracts observations from raw inspection documents, co
 ```bash
 User Uploads Reports
         │
-        ▼
 PDF Processing
 (Text + Image Extraction)
         │
-        ▼
 Text Chunking
         │
-        ▼
 Embeddings 
         │
-        ▼
 FAISS Vector Database
         │
-        ▼
 RAG Retrieval
         │
-        ▼
 LangGraph Workflow
         │
-        ▼
 Gemini LLM
         │
-        ▼
 Structured DDR Report
 ```
 # Installation 
