@@ -1,0 +1,4 @@
+conda create --name DDR python=3.11 
+conda activate DDR
+pip install -r requirements.txt
+streamlit run app.py
